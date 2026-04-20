@@ -20,4 +20,4 @@ The study measures:
 To examine whether personality traits predict reliance on AI assistance during problem-solving tasks.
 
 ## Live Demo
-👉 https://yourusername.github.io/ai-cognitive-offloading-experiment/
+👉 https://imsh25.github.io/ai-cognitive-offloading-experiment/
